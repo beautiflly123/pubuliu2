@@ -35,6 +35,7 @@
 
 - (NSMutableArray *)image
 {
+    //////////////////////////////
 
     if (!_image) {
         NSMutableArray *imageName = [NSMutableArray array];
