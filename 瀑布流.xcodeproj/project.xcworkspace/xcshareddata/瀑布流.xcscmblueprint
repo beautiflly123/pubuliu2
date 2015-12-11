@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6FB3DB761E85EFBC84ED9A8CD6DB16630BE66B99",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A67EDDAA25C260DA83B11DFC13506E661531AC90" : 0,
+    "6FB3DB761E85EFBC84ED9A8CD6DB16630BE66B99" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5DBF31F5-5BC2-4A93-8ACE-FA7EEF09C20E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A67EDDAA25C260DA83B11DFC13506E661531AC90" : "",
+    "6FB3DB761E85EFBC84ED9A8CD6DB16630BE66B99" : "%E7%80%91%E5%B8%83%E6%B5%81\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "瀑布流",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "瀑布流.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/beautiflly123\/pubuliu2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FB3DB761E85EFBC84ED9A8CD6DB16630BE66B99"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/beautiflly123\/20151210.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A67EDDAA25C260DA83B11DFC13506E661531AC90"
+    }
+  ]
+}
